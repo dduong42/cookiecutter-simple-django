@@ -1,4 +1,9 @@
 -r base.txt
 
-mock
-model-mommy
+factory_boy
+splinter
+pytest
+pytest-splinter
+pytest-factoryboy
+pytest-bdd
+pytest-django
